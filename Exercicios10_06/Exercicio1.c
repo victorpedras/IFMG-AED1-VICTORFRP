@@ -1,3 +1,5 @@
+//Faça um programa para ler dois vetores, A e B, com 5 números inteiros cada. Crie um novo vetor denominado C calculando C = A - B. Mostre na tela os dados do vetor C.
+
 #include <stdio.h>
 int main() {
     int vetor1[5], vetor2[5], vetor1_2[5], i;
